@@ -15,4 +15,4 @@ I’m currently a candidate for the Master of Data and Decision Analytics at the
 About this website
 ======
 1. The primary objective of this website is to document my evolving knowledge and experiences in the field of data analysis. I am excited to share insights and reflections on my journey, with plans to begin posting detailed journey pages shortly; you can find the directory for these entries [here]().
-2. If you are interested in establishing a connection, I invite you to review my CV, which provides a comprehensive overview of my professional background and qualifications. You can access it [here](https://nguyen-nhat-minh.github.io/cv).
+2. If you are interested in establishing a connection, I invite you to review my CV, which provides a comprehensive overview of my professional background and qualifications. You can access it [here](https://nguyen-nhat-minh.github.io/online-cv).
