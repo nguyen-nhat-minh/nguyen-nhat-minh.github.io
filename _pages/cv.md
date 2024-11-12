@@ -9,57 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
-## MSc in Data and Decision Analytics 
-*University of Edinburgh*
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+title: Viktor Vaughn
+---
+###### [ [Github](https://www.github.com/siph) ] - [ [Blog](https://www.dev.to/siph) ] - [ v.vaughn@gmail.com ] - [ 814 332 8091 ]
+#### Experienced project manager with a track record of delivering high-quality results on time and within budget.
 
-# Work experience
+## Skills
+```Project management```
+```Team leadership```
+```Budget management```
+```Communication```
+```Problem-solving```
+```Agile methodology```
+```Microsoft Project```
+```JIRA```
+```SQL```
 
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Languages**: Java, Kotlin, Rust  
+**Databases**: Redis, Postgres, Neo4j  
+**Tools**: Spring, Kubernetes, Github-Actions, Linux, Nix, Git, Rest, GraphQL
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Experience
+### Jamba Juice
+##### Senior Project Manager, January 2015 - Present
+- Led cross-functional teams in the successful delivery of multiple software projects, including a major website redesign and a mobile app launch.
+- Managed budgets of up to $5 million and ensured projects were delivered on time and within scope.
+- Coordinated communication with stakeholders, including executive leadership and development teams.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### PF Chang's
+##### Project Manager, February 2011 - December 2014
+- Managed a portfolio of software and hardware projects, including a new CRM implementation and a network infrastructure upgrade.
+- Worked closely with business analysts and technical teams to ensure project requirements were met and delivered on schedule.
+- Maintained project documentation and provided regular status updates to executive leadership.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+## Projects
+**[*resume-md*](http://www.github.com/siph/resume-md)**
+
+Build your resume using markdown and have it generated as a pdf and html.
+
+## Education
+
+### Reno University
+**Degree:** Bachelor of Science in Computer Science | **Years Attended:** 2016-2019 | **City, State:** Reno, NV
