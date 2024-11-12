@@ -21,7 +21,7 @@ repository               : "https://nguyen-nhat-minh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "4x66.jpg"
   name             : "Nguyen Nhat Minh"
   pronouns         : # example: "she/her"  
   bio              : "My personal website. Just call me Minh."
